@@ -1,2 +1,1 @@
-# first-todolist-BE
-Node.js, Express, MongoDB
+# To-Do-List
